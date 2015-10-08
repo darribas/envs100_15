@@ -1,7 +1,7 @@
 ## About
 
-This is the website for the course GGM-105: Year 1 tutorials, for the first
-year of Geography at University of Birmingham, created by Dani Arribas-Bel.
+This is the website for the course ENVS100: Year 1 tutorials, for the first
+year of Geography at University of Liverpool, created by Dani Arribas-Bel.
 
 ## License
 
