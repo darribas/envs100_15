@@ -24,7 +24,7 @@ layout: default
 * Tutorial 4: Friday November 20th. 1:30pm-2:30pm (Week 8)
 * Tutorial 5: Friday December 4th. 1:30pm-2:30pm (Week 10)
 * **Summative assignment deadline**: Wednesday December 16th (Week 12)
-* Tutorial 6: Thursday December 17th. 11:00pm-12:00pm (Week 12)
+* Tutorial 6: Wednesday December 16th. 11:00pm-12:00pm (Week 12)
 
 <a name="s2"></a>
 
